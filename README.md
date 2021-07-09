@@ -1,1 +1,1 @@
-Bot username: @fuel_cleaner_bot
+Bot's username: @fuel_cleaner_bot
